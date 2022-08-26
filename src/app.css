@@ -1,0 +1,13 @@
+.headerBackground{
+    color: white;
+    background-color: rgb(0, 0,0,.7);
+}
+.show{
+    opacity: 0;
+}
+
+.btn{
+    background-color: black;
+    color: antiquewhite;
+    margin-right:19px;
+}
