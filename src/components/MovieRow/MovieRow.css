@@ -1,0 +1,19 @@
+.row{
+    margin: 7px;
+margin-left: 20px;
+color: #fff;
+}
+
+.movie-posters{
+display: flex;
+padding: 20px;
+overflow-x: scroll;
+overflow-y: hidden;
+}
+ .movie-posters::-webkit-scrollbar{
+    display: none;
+ }
+.poster-img{
+    max-height: 250px;
+    margin-right: 10px;
+}

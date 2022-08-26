@@ -11,6 +11,7 @@ function Banner() {
                 </div>
                 <h1 className="description">hi iam desciprtion  iam from html css and javascript jqeury ajax </h1>
             </div>
+            <div className="fade-bnr"></div>
         </div>
     )
 }
