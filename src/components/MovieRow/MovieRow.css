@@ -17,3 +17,8 @@ overflow-y: hidden;
     max-height: 250px;
     margin-right: 10px;
 }
+
+.small-poster{
+    max-height: 150px;
+    margin-right: 10px;
+}
